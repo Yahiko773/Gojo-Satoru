@@ -3485,7 +3485,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                 listMessage :{
                     title: `「 مرحبا 👋🏻  」◣
-		    「 معك بوت غوجو 🤗 」◣
+		    「 معك بوت رايزل 」
 		    「 افضل بوت عربي 」◣
 
  「 رابط شرح كيف تصنع بوت عربي طريقة سهله راقب وتعلم. ولاتنسى الاشتراك بالقناة」◣

@@ -7,9 +7,9 @@
 
 
 <!-- ابدأ عبر هيريكو -->
-<b><details><summary>Start via Heroku</summary></b>
+<b><details><summary>ابدأ عبر هيريكو</summary></b>
 
-* اظغط هنا علشان تسوي سكانm [Here](https://replit.com/@nexusNw/M-D-SCANNER-V2?v=1?outputonly=1&lite=1#index.js)
+* اظغط هنا علشان تسوي سكان [Here](https://replit.com/@nexusNw/M-D-SCANNER-V2?v=1?outputonly=1&lite=1#index.js)
 * اظغط هنا علشان تسوي فورك [Here](https://github.com/nexusNw/Gojo-Satoru/fork)
 * انشر البوت من هنا [Here](https://heroku.com/deploy)
 * تستغرق عمليه الرفع من خمس دقايق لعشر 
